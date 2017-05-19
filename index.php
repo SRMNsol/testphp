@@ -1,3 +1,8 @@
+<?php
+phpinfo();
+exit;
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
