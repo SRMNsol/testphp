@@ -19,7 +19,7 @@
                 <h2>Congratulations!</h2>
                 <p>Your PHP application is now running on the host &ldquo;<?php echo gethostname(); ?>&rdquo; in your own dedicated environment in the AWS&nbsp;Cloud.</p>
                 <p>This host is running PHP version <?php echo phpversion(); ?>.</p>
-                <center><h2>Shahid and Moeed Testing...</h2></center>
+                <center><h2>Shahid,Abid and Moeed Testing...</h2></center>
             </div>
         </div>
 
